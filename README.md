@@ -27,7 +27,7 @@ On execution of the code, following results were obtained: The cells of the tabl
 
 As we can see the following accuracy was obtained for the different samples used:
 
-1) For Sampling1, Model4 has the highest accuracy i.e. 68.39%.
+1) For Sampling1, Model3 has the highest accuracy i.e. 68.39%.
 2) For Sampling2, Model2 has the highest accuracy i.e. 85.16%.
 3) For Sampling3, Model2 has the highest accuracy i.e. 68.39%.
 4) For Sampling4, Model3 has the highest accuracy i.e. 70.97%.
