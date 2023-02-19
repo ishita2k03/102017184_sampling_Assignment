@@ -22,7 +22,8 @@ Following 5 models were applied on the sampled dataset:
 On execution of the code, following results were obtained: The cells of the table represent accuracy of the applied model using the respective sampling technique.
 
 
-<img width="458" alt="image" src="https://user-images.githubusercontent.com/79622989/219969898-1c2f33a9-0c41-4424-93db-b481d15211a5.png">
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/79622989/219970516-5e7e6a36-132f-450e-8a5f-f1ba3a2ec6dd.png">
+
 
 As we can see the following accuracy was obtained for the different samples used:
 
